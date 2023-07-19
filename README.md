@@ -1,6 +1,6 @@
 # DCA Lightning PoC 
 
-Demo for DCA Lightning product
+Demo  and Proof of Concept for DCA Lightning product
 
 # Demo video
 
